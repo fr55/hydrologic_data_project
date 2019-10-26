@@ -1,0 +1,72 @@
+---
+title: "Proposal and Analysis Plan"
+author: "Keith Bollt, Jake Greif, Felipe Raby-Amadori, Lindsay Roth"
+date: "october 25, 2019"
+output: pdf_document
+geometry: margin=2.54cm
+editor_options: 
+  chunk_output_type: console
+---
+
+## What questions will your team address?
+
+1. What are the predictors of nutrients in a water body?
+
+2. How have these predictors changed over time?
+
+3. How are these predictors different between sites based on urban and rural development?
+
+<add more numbers as needed>
+
+## What hypotheses will your team address? 
+
+* Hypotheses should relate directly to your questions. Each numbered hypothesis should match up with the correponding numbered question. 
+* There may be multiple working hypotheses for a single question. If this is the case, note each hypothesis as 1a, 1b. etc.
+
+1. 
+
+2. 
+
+3. There will be differences in Nitrogen and Phosphorus loading from variability in land use, atmospheric deposition, and geology types between the two study sites.
+
+<add more numbers as needed>
+
+## What dataset(s) will your team analyze?
+LAGOS dataset
+
+
+## How will you set up and manage your project repository? 
+We will create a github project. Each team member wil commit often with detailed commit messages.
+
+
+## Create a table of variables you will analyze.
+
+* Column 1: Variable
+-total nitrogen, total phosphorus, land use, atmospheric nitrogen and phosphorus deposition, surficial geology types.
+* Column 2: Units (if known)
+* Column 3: Dependent (response) or independent (predictor) variable?
+- tn and tp will be response, the others will be predictors
+* Column 4: To which hypothesis(es) does this variable pertain?
+-all of our hypotheses will use these variables, with hypothesis 3 comparing the two watersheds.
+
+*Note: You may not know all of the individual variables you plan to analyze at this point. It is sufficient to describe what type of variable you anticipate using (e.g., land cover) and decide on specifics later*
+
+
+
+## What tasks will your team conduct? 
+
+### Data acquisition
+
+Determine the variables we need to grab from the LAGOS dataset and make dataframes including those variables.
+
+### Data exploration
+
+We will make correlation plots, box/violin plots, qqnorm/qqline to test for normality
+
+### Data wrangling
+
+We'll create skinny datasets from the greater LAGOS database and filter the rows and columns we need for our analysis
+
+### Data analysis and visualization
+
+We will run linear models to determine which variables are the most significant predictors of nutrients.  We will visualize our results in maps, scatterplots, tables. 
