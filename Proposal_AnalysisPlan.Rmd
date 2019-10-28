@@ -10,9 +10,9 @@ editor_options:
 
 ## What questions will your team address?
 
-1. What are the land use predictors of nutrients in a state?
+1. What are the land use predictors of nutrients in multiple watersheds within New York State?
 
-2. How have these predictors changed over time? 
+2. How have these land use predictors changed over time? 
 
 3. How are these predictors different between sites?
 
