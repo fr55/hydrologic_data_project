@@ -12,7 +12,7 @@ editor_options:
 
 1. What are the predictors of nutrients in a water body?
 
-2. How have these predictors changed over time?
+2. How have these predictors changed over time? 
 
 3. How are these predictors different between sites based on urban and rural development?
 
