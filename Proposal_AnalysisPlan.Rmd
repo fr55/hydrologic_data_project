@@ -1,7 +1,7 @@
 ---
 title: "Proposal and Analysis Plan"
 author: "Keith Bollt, Jake Greif, Felipe Raby-Amadori, Lindsay Roth"
-date: "october 25, 2019"
+date: "October 28, 2019"
 output: pdf_document
 geometry: margin=2.54cm
 editor_options: 
@@ -14,22 +14,19 @@ editor_options:
 
 2. Is there seasonal variation between the predictors of nutrients?
 
-<add more numbers as needed>
-
 ## What hypotheses will your team address? 
 
-* Hypotheses should relate directly to your questions. Each numbered hypothesis should match up with the correponding numbered question. 
+* Hypotheses should relate directly to your questions. Each numbered hypothesis should match up with the corresponding numbered question. 
 * There may be multiple working hypotheses for a single question. If this is the case, note each hypothesis as 1a, 1b. etc.
 
 1a. Higher proportions of natural (forested and grassland) land use will be positively correlated  water quality (indicated by Nitrogen and Phosphorus levels) due to higher rates of nutrient uptake in plants and lower outputs of nutrients in runoff.
 
 1b. Higher proportions urban and agricultural land use will be negatively correlated with water quality due to higher rates of nutrient runoff.
 
-1c. Higher amounts of atmospheric depoisition will be negatively correlated with water quality due to increased  precipitation and dryfall into watersheds.
+1c. Higher amounts of atmospheric deposition will be negatively correlated with water quality due to increased  precipitation and dryfall into watersheds.
 
 2. Agricultural land use will be a more significant contributor to nutrient loading during fertilization seasons while urban land use will be the significant contributor to nutrient loading during the opposite seasons. 
 
-<add more numbers as needed>
 
 ## What dataset(s) will your team analyze?
 LAGOS dataset
@@ -50,9 +47,13 @@ We will create a github project. Each team member will commit often with detaile
 * Column 4: To which hypothesis(es) does this variable pertain?
 -all of our hypotheses will use these variables, with hypothesis 2 comparing seasons.
 
+```{r ,echo=FALSE}
+Variables.table <- read.csv("./LAGOS_variables_v2.csv")
+library(knitr)
+kable(Variables.table)
+```
+
 *Note: You may not know all of the individual variables you plan to analyze at this point. It is sufficient to describe what type of variable you anticipate using (e.g., land cover) and decide on specifics later*
-
-
 
 ## What tasks will your team conduct? 
 
