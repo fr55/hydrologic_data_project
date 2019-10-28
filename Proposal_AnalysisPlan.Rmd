@@ -10,9 +10,9 @@ editor_options:
 
 ## What questions will your team address?
 
-1. What are the land use predictors of nutrients in multiple watersheds within New York State?
+1. What are the predictors of nutrients in multiple watersheds within New York State?
 
-2. How have these land use predictors changed over time? 
+2. How have these predictors changed over time? 
 
 3. How are these predictors different between sites?
 
@@ -23,7 +23,11 @@ editor_options:
 * Hypotheses should relate directly to your questions. Each numbered hypothesis should match up with the correponding numbered question. 
 * There may be multiple working hypotheses for a single question. If this is the case, note each hypothesis as 1a, 1b. etc.
 
-1. 
+1a. Higher proportions of natural (forested and grassland) land use will be positively correlated  water quality due to higher rates of nutrient uptake in plants and lower outputs of nutrients in runoff.
+
+1b. Higher proportions urban and agricultural land use will be negatively correlated with water quality due to higher rates of nutrient runoff.
+
+1c. Higher amounts of atmospheric depoisition will positively correlated with water quality due to increased  precipitation and dryfall into watersheds.
 
 2. 
 
