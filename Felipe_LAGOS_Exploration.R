@@ -6,3 +6,6 @@ LAGOSdata <- lagosne_load()
 LAGOSlocus <- LAGOSdata$locus
 LAGOSstate <- LAGOSdata$state
 LAGOSnutrient <- LAGOSdata$epi_nutr
+LAGOSgeo <- LAGOSdata$lakes.geo
+
+LAGOScountylulc <- LAGOSdata$county.lulc
