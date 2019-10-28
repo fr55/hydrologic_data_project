@@ -10,11 +10,11 @@ editor_options:
 
 ## What questions will your team address?
 
-1. What are the predictors of nutrients in a water body?
+1. What are the land use predictors of nutrients in a state?
 
 2. How have these predictors changed over time? 
 
-3. How are these predictors different between sites based on urban and rural development?
+3. How are these predictors different between sites?
 
 <add more numbers as needed>
 
