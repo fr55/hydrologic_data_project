@@ -67,7 +67,7 @@ We will make correlation plots, box/violin plots, qqnorm/qqline to test for norm
 
 ### Data wrangling
 
-We'll create skinny datasets from the greater LAGOS database and filter the rows and columns we need for our analysis.
+We'll create gathered datasets from the greater LAGOS database and filter the rows and columns we need for our analysis.
 
 ### Data analysis and visualization
 

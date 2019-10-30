@@ -24,3 +24,13 @@ output: word_document
 > Write paper
 > Prepare presentation
 
+Notes:
+-find a way to account for precipitation when looking at seasonality
+-keep in mind regional differences that pop up after 2016 (ohio river basin vs. great lakes)
+-divide watersheds across state by land use (split into categories)
+-multivariate analyses might be necessary
+--prinicple analysis, multiple linear regressions (ANCOVA)
+--ANCOVA falls within glm
+-keep issues of non-normality in mind
+-can split up models by third category to work on issues of normality
+
