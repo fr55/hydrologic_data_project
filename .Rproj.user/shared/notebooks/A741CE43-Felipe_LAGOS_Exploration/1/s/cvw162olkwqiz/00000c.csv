@@ -1,0 +1,4 @@
+"0","LAGOSiws.Ohio <- LAGOSlocus.Ohio %>% left_join(LAGOSiws.lulc, by = lagoslakeid)
+"
+"2","Error in common_by(by, x, y) : object 'lagoslakeid' not found
+"
