@@ -1,0 +1,26 @@
+---
+title: "Task_List"
+author: "Jake Greif"
+date: "10/30/2019"
+output: word_document
+---
+
+## Tasks:
+
+> Make raw LAGOS data files
+> Determine which counties we want to work with
+> Wrangle data
+> Exploratory analysis
+  > box plots
+  > Q-Q plots
+  > shapiro-wilks test
+> Analyze data
+  > correlation plots
+  > linear model
+    > seasonality (Mann-Kendall?)
+    > Parametric or non-parametric depending on exploratory analysis
+> Visualize results
+  > graphs, maps, etc.
+> Write paper
+> Prepare presentation
+
