@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572282892084.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E3C7F984",
+    "lastKnownWriteTime" : 4370567420,
+    "last_content_update" : 1572282892084,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "464b27016bff4b4eb0d29c9e75bd21bd",
+        "name" : "LAGOSdata",
+        "title" : "LAGOSdata"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
