@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572380455890.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "319637A4",
+    "lastKnownWriteTime" : 1572457106,
+    "last_content_update" : 1572457106,
+    "path" : "~/Documents/MEM 2nd Year/HydroData/hydrologic_data_project/teamdocs/Proposal_AnalysisPlan.Rmd",
+    "project_path" : "teamdocs/Proposal_AnalysisPlan.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "43,1",
+        "scrollLine" : "34"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
