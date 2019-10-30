@@ -1,11 +1,7 @@
 ---
 title: "Proposal and Analysis Plan"
 author: "Keith Bollt, Jake Greif, Felipe Raby-Amadori, Lindsay Roth"
-<<<<<<< HEAD:Proposal_AnalysisPlan.Rmd
 date: "October 25, 2019"
-=======
-date: "October 28, 2019"
->>>>>>> b552af2a1aa1f450e8a9e4368606b86a5ffd2e1e:teamdocs/Proposal_AnalysisPlan.Rmd
 output: pdf_document
 geometry: margin=2.54cm
 editor_options: 
