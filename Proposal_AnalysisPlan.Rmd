@@ -1,7 +1,7 @@
 ---
 title: "Proposal and Analysis Plan"
 author: "Keith Bollt, Jake Greif, Felipe Raby-Amadori, Lindsay Roth"
-date: "october 25, 2019"
+date: "October 25, 2019"
 output: pdf_document
 geometry: margin=2.54cm
 editor_options: 
