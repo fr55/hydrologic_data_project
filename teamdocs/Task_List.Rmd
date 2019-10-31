@@ -8,7 +8,8 @@ output: word_document
 ## Tasks:
 
 > Make raw LAGOS data files
-> Determine which counties we want to work with
+> Divide waterheds by land use
+  > Pick a threshold for % of a specific land use
 > Wrangle data
 > Exploratory analysis
   > box plots
@@ -19,6 +20,8 @@ output: word_document
   > linear model
     > seasonality (Mann-Kendall?)
     > Parametric or non-parametric depending on exploratory analysis
+  > Multivariate tests
+    > principle component analysis, ANCOVA
 > Visualize results
   > graphs, maps, etc.
 > Write paper
