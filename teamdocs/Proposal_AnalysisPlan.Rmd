@@ -10,9 +10,9 @@ editor_options:
 
 ## What questions will your team address?
 
-1. What are the predictors of nutrients in multiple watersheds within the state of Ohio?
+1. What are the predictors of nutrients based on land use in watersheds with similar physical characteristics in the state of Ohio?
 
-2. Is there seasonal variation between the predictors of nutrients?
+2. How do you characterize seasonal variation between the predictors of nutrients?
 
 ## What hypotheses will your team address? 
 
