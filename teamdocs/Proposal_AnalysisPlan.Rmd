@@ -50,6 +50,7 @@ We will create a github project. Each team member will commit often with detaile
 ```{r ,echo=FALSE}
 Variables.table <- read.csv("./LAGOS_variables_v2.csv")
 library(knitr)
+library(kableExtra)
 kable(Variables.table)
 ```
 
