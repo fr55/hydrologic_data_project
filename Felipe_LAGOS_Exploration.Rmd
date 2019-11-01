@@ -28,6 +28,9 @@ LAGOSlocus.Ohio <- LAGOSlocus %>% filter(state_zoneid == "State_6")
 
 LAGOSiws.Ohio <- LAGOSlocus.Ohio %>% left_join(LAGOSiws.lulc, by = "lagoslakeid")
 
+ggplot(LAGOSiws.Ohio, aes(x=lake_area_ha)) + 
+  geom_histogram()
+
 
 ```
 
